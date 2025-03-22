@@ -4,6 +4,7 @@ I created the plugin for myself for my tasks.
 For now it is just a plugin for displaying messages maybe later it will be something more.
 ## Settings
 All settings in config.yml and alerts.yml
+
 **config.yml**
 ```yml
 # Default configuration file
