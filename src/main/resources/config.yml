@@ -1,0 +1,5 @@
+# Default configuration file
+enabled: true
+
+rules-text: "Simple Rules..." #Server rules "/rules"
+alerts: False #on/off alerts.yml

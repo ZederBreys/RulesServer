@@ -1,0 +1,7 @@
+- text: "test1"
+  delay: 15
+- text: "test2"
+  delay: 20
+- text: "test3"
+  delay: 5
+  data: dd.MM.yyyy #Optional parameter: Set the message expiration date. The message will be displayed until and including the specified date, but will not be shown after that date.

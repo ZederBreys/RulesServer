@@ -1,0 +1,15 @@
+name: RulesServer
+version: '1.5'
+main: org.zb.rulesServer.RulesServer
+api-version: '1.21'
+authors: [ ZederBreys ]
+description: Rules Server
+commands:
+  rules:
+    description: Show server rules or reload them.
+    usage: /<command>
+  rs:
+    description: Reload the RulesServer plugin.
+    usage: /<command> [reload]
+    permission: rules.reload
+    permission-message: "You do not have permission to reload!"
